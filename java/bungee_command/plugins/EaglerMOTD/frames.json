@@ -1,0 +1,39 @@
+{
+	"frame1": { 
+		"icon": "11.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": [AFK_BOT],
+		"text0": "&fWhite Market &6Creative &fServer",
+		"text1": "&9&ntiny.one/wmlinks"
+	},
+	"frame2": { 
+		"icon": "11.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": [AFK_BOT],
+		"text0": "&fWhite Market &6Creative &fServer",
+		"text1": "&9&ntiny.one/wmlinks"
+	},
+	"frame3": { 
+		"icon": "11.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": [AFK_BOT],
+		"text0": "&fWhite Market &6Creative &fServer",
+		"text1": "&9&ntiny.one/wmlinks"
+	},
+	"frame4": { 
+		"icon": "11.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"players": [AFK_BOT],
+		"text0": "&fWhite Market &6Creative &fServer",
+		"text1": "&9&ntiny.one/wmlinks"
+	}
+}

@@ -1,0 +1,22 @@
+timestamps:
+  login: 1676667465032
+  logout: 1676667629381
+  lastteleport: 1676667274008
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 122.80590364402676
+  y: 64.0
+  z: 254.04975244829785
+  yaw: 63.900005
+  pitch: 24.450003
+logoutlocation:
+  world: world
+  x: 124.78862864776019
+  y: 67.49064318920136
+  z: 253.0321270067027
+  yaw: 285.45
+  pitch: 22.650002
+afk: false
+nickname: dabee2
+godmode: true

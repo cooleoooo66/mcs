@@ -1,0 +1,13 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - essentials.build
+    - essentials.break
+    - essentials.back
+    - essentials.tpa
+    - essentials.tpacancel
+    - essentials.tpaccept
+    - essentials.home
+    - essentials.sethome
+    - essentials.warp
